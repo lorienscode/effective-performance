@@ -1,4 +1,4 @@
-<h1 align="center">Jenkins Proof of Concept</h1>
+<h1 align="center">Project Echo</h1>
 
 ###
 
@@ -16,6 +16,18 @@
 ###
 
 ## About This Page
+Project Echo is a collaborative repository for developing a **Proof of Concept (POC)** that will evolve into a **Minimum Viable Product (MVP)**. This project serves as the foundation for exploring innovative ideas, validating core functionality, and setting the stage for scalable implementation.
+
+**Purpose**
+
+- Rapid prototyping and experimentation.
+- Establishing key technical components for the MVP.
+- Enabling team collaboration and version control.
+
+---
+
+## Current Backlog Item
+
 **Jenkins and Okta Integration (Proof of Concept)**
 
 This Proof of Concept (POC) demonstrates the integration of **Jenkins** with **Okta** to establish Okta as the **Identity Provider (IdP)** for Jenkins, enabling secure **Single Sign-On (SSO)** using the **SAML 2.0** protocol.
@@ -38,7 +50,7 @@ In addition to SSO integration, the project implements a **CI/CD pipeline** that
 - GitHub – Version control and source management
 
 ###
-
+---
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=g-ung&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"/>
   <img src="https://github-profile-trophy.vercel.app?username=g-ung&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"/>
