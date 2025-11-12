@@ -1,4 +1,4 @@
-<h1 align="center">KPMG Jenkins Proof of Concept</h1>
+<h1 align="center">Jenkins Proof of Concept</h1>
 
 ###
 
@@ -16,7 +16,7 @@
 ###
 
 ## About This Page
-**KPMG – Jenkins and Okta Integration (Proof of Concept)**
+**Jenkins and Okta Integration (Proof of Concept)**
 
 This Proof of Concept (POC) demonstrates the integration of **Jenkins** with **Okta** to establish Okta as the **Identity Provider (IdP)** for Jenkins, enabling secure **Single Sign-On (SSO)** using the **SAML 2.0** protocol.
 
