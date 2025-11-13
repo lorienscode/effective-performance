@@ -1,0 +1,13 @@
+{
+  "name": "<app name>",
+  "label": "<app label>",
+  "signOnMode": "SAML_2_0",
+  "settings": {
+    "app": {
+      "acsUrl": "https://login.domain.com",
+      "audience": "https://saml.domain.com",
+      "recipient": "https://login.domain.com",
+      "destination": "https://login.domain.com"
+    }
+  }
+}
