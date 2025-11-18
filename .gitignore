@@ -31,7 +31,7 @@ Temporary Items
 # iCloud generated files
 *.icloud
 
-## Windows ## 
+### Windows ### 
 # Windows thumbnail cache files
 Thumbs.db
 Thumbs.db:encryptable
