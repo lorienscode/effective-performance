@@ -1,4 +1,4 @@
-<h1 align="center">Project Echo</h1>
+<h1 align="center">Project Icarus</h1>
 
 ###
 
