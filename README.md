@@ -28,7 +28,7 @@ Project Icarus is a collaborative repository for developing a **Proof of Concept
 
 ## Current Backlog Item
 
-**Jenkins and Okta Integration (Proof of Concept)**
+**Terraform/Jenkins and Okta Integration (Proof of Concept)**
 
 This Proof of Concept (POC) demonstrates the integration of **Jenkins** with **Okta** to establish Okta as the **Identity Provider (IdP)** for Jenkins, enabling secure **Single Sign-On (SSO)** using the **SAML 2.0** protocol.
 
