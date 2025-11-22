@@ -1,4 +1,4 @@
-<h1 align="center">Project Icarus</h1>
+<h1 align="center">Okta Automation Project</h1>
 
 ###
 
@@ -16,7 +16,7 @@
 ###
 
 ## About This Page
-Project Icarus is a collaborative repository for developing a **Proof of Concept (POC)** that will evolve into a **Minimum Viable Product (MVP)**. This project serves as the foundation for exploring innovative ideas, validating core functionality, and setting the stage for scalable implementation.
+Okta Automation Project is a collaborative repository for developing a **Proof of Concept (POC)** that will evolve into a **Minimum Viable Product (MVP)**. This project serves as the foundation for exploring innovative ideas, validating core functionality, and setting the stage for scalable implementation.
 
 **Purpose**
 
