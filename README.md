@@ -51,13 +51,24 @@ In addition to SSO integration, the project implements a **CI/CD pipeline** that
 
 ###
 ---
+
+### 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=g-ung&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"/>
+<div align="center">
+  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=g-ung&theme=radical">
+  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=g-ung&theme=radical">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=g-ung&theme=radical">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=g-ung&theme=radical">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=g-ung&theme=radical&utcOffset=8">
+
+  <img height="169em" src="https://github-readme-stats.vercel.app/api?username=g-ung&show_icons=true&theme=radical"/>
+  <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=g-ung&theme=radical" alt="g-ung"/>
   <img src="https://github-profile-trophy.vercel.app?username=g-ung&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"/>
 </div>
 
 ###
-
+---
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/g-ung/g-ung/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/g-ung/g-ung/output/pacman-contribution-graph.svg">
