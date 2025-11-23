@@ -26,7 +26,9 @@ Okta Automation Project is a collaborative repository for developing a **Proof o
 
 ---
 
-## Current Backlog Item
+# Projects
+
+## [Okta Automation](https://github.com/orgs/lorienscode/projects/4)
 
 **Terraform/Jenkins and Okta Integration (Proof of Concept)**
 
