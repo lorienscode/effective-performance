@@ -53,6 +53,7 @@ In addition to SSO integration, the project implements a **CI/CD pipeline** that
 ---
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=g-ung&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-ung&layout=compact&theme=radical" alt="Top Languages" height ="150" width="400"/>
   <img src="https://github-profile-trophy.vercel.app?username=g-ung&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"/>
 </div>
 
