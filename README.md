@@ -11,6 +11,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=terraform" height="60" alt="terraform logo"  />
+  <img width="12" />
 </div>
 
 ###
