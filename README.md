@@ -67,6 +67,7 @@ In addition to SSO integration, the project implements a **CI/CD pipeline** that
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=g-ung&theme=radical&utcOffset=8">
 
   <img height="169em" src="https://github-readme-stats.vercel.app/api?username=g-ung&show_icons=true&theme=radical"/>
+  <img height="169em" src="https://github-readme-stats.vercel.app/api?username=jakepitkethley&show_icons=true&theme=radical"/>
   <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=g-ung&theme=radical" alt="g-ung"/>
   <img src="https://github-profile-trophy.vercel.app?username=g-ung&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"/>
 </div>
